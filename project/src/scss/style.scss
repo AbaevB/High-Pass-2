@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+@import "assets/normalize.scss";
+@import "assets/variables";
+@import "assets/fonts";
+@import "assets/mixins";
+@import "assets/core";
+
+/*page*/
+
+@import "page/price/style.scss";
+
+/*block*/
+@import "blocks/working/style.scss";
